@@ -1,4 +1,4 @@
 # OK_Googuep
-AI & IoT Hackathon\n
-We are planning for to make voice recognition emergency cases.\n
+AI & IoT Hackathon
+We are planning for to make voice recognition emergency cases.
 Our team name is RNC.
